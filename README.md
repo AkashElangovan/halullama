@@ -3,7 +3,6 @@ llama3 with heavy hallucination
 Hallucinations in large language models (LLMs) can be caused by several factors, ranging from the nature of the training data to the specifics of the model architecture and usage context. Here are some key causes:
 
 Training Data Quality:
-123
 Incomplete or Inaccurate Data: If the training data contains errors or is incomplete, the model may generate incorrect information.
 Bias in Data: If the training data is biased or unrepresentative, the model might generate biased or skewed responses.
 Noise in Data: Training on noisy data (irrelevant or inconsistent information) can lead to hallucinations.
