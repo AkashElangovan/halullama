@@ -2,7 +2,7 @@
 # hallullama
 llama3 with heavy hallucination
 
-
+we can also implement decoding decoding strategies
 Hallucinations in large language models (LLMs) can be caused by several factors, ranging from the nature of the training data to the specifics of the model architecture and usage context. Here are some key causes:
 
 Training Data Quality:
